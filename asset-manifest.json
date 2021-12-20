@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/milwaukeetool/static/css/main.98d9454b.css",
+    "main.js": "/milwaukeetool/static/js/main.5b25cdf3.js",
+    "static/js/787.639575d2.chunk.js": "/milwaukeetool/static/js/787.639575d2.chunk.js",
+    "index.html": "/milwaukeetool/index.html",
+    "main.98d9454b.css.map": "/milwaukeetool/static/css/main.98d9454b.css.map",
+    "main.5b25cdf3.js.map": "/milwaukeetool/static/js/main.5b25cdf3.js.map",
+    "787.639575d2.chunk.js.map": "/milwaukeetool/static/js/787.639575d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d9454b.css",
+    "static/js/main.5b25cdf3.js"
+  ]
+}
